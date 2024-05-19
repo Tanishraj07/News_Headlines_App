@@ -19,3 +19,10 @@ ViewModel: Acts as a mediator between the Model and the View, handling the busin
 - **SpinKit**: A package for showing loading animations while fetching data.
 ## REST API
 The app uses the News API to fetch news headlines. The API provides various endpoints to get the latest news articles, filter news by category, and search for news articles by keywords.
+
+## APP Demo
+
+
+https://github.com/Tanishraj07/News_Headlines_App/assets/97394987/8e229db5-ded2-4593-b10a-5f7c220bfa14
+
+
