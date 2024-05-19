@@ -10,8 +10,8 @@ View: Represents the UI layer of the app, which includes Flutter widgets that di
 ViewModel: Acts as a mediator between the Model and the View, handling the business logic and preparing data for the View.
 
 ## Technologies and Libraries
-Flutter: The UI toolkit used to build the application for both Android and iOS.
-Dart: The programming language used to write Flutter code.
+- Flutter: The UI toolkit used to build the application for both Android and iOS.\n
+-Dart: The programming language used to write Flutter code.
 Provider: A state management solution for managing the app's state and dependency injection.
 HTTP: A package used to make HTTP requests to the News API.
 CachedNetworkImage: A package for displaying images from the network with caching support.
