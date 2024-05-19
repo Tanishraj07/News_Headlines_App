@@ -10,12 +10,12 @@ View: Represents the UI layer of the app, which includes Flutter widgets that di
 ViewModel: Acts as a mediator between the Model and the View, handling the business logic and preparing data for the View.
 
 ## Technologies and Libraries
-- Flutter: The UI toolkit used to build the application for both Android and iOS.\n
+- Flutter: The UI toolkit used to build the application for both Android and iOS.
 -Dart: The programming language used to write Flutter code.
-Provider: A state management solution for managing the app's state and dependency injection.
-HTTP: A package used to make HTTP requests to the News API.
-CachedNetworkImage: A package for displaying images from the network with caching support.
-Google Fonts: For custom fonts to enhance the UI.
-SpinKit: A package for showing loading animations while fetching data.
+-Provider: A state management solution for managing the app's state and dependency injection.
+-HTTP: A package used to make HTTP requests to the News API.
+-CachedNetworkImage: A package for displaying images from the network with caching support.
+-Google Fonts: For custom fonts to enhance the UI.
+-SpinKit: A package for showing loading animations while fetching data.
 ## REST API
 The app uses the News API to fetch news headlines. The API provides various endpoints to get the latest news articles, filter news by category, and search for news articles by keywords.
